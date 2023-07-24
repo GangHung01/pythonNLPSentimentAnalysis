@@ -1,0 +1,4 @@
+# pythonNLPSentimentAnalysis
+对电商评论数据进行基于CNN情感倾向建模
+主要工具为tensorflow2
+网络模型 CNN
